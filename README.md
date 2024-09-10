@@ -1,6 +1,9 @@
 ## CRIC PING
 
-The Custom Cricket Commentary Live Feed Tool written in Node.js and leveraging the power of Fluvio, SQLite3
+Meet Cricping Cricket Commentary Live Feed Application written in Node.js and leveraging the power of Fluvio, SQLite3
+
+## Screenshot
+
 
 ## Installation (WSL OR Linux) 
 
