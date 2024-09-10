@@ -7,6 +7,7 @@ Meet Cricping Cricket Commentary Live Feed Application written in Node.js and le
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />    
   
 </p>
+
 ## Screenshot
 
 ![Cricping](https://cdn-langchain.netlify.app/cricpng.png)
