@@ -1,8 +1,10 @@
 ## CRIC PING
 
-Meet Cricping Cricket Commentary Live Feed Application written in Node.js and leveraging the power of Fluvio, SQLite3
+Meet Cricping Cricket Commentary Live Feed Application written in Node.js and leveraging the power of Fluvio, Websocket, SQLite3
 
 ## Screenshot
+
+![Cricping](https://cdn-langchain.netlify.app/cricpng.png)
 
 
 ## Installation (WSL OR Linux) 
